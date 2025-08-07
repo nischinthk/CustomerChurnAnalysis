@@ -1,0 +1,301 @@
+CustomerID,Age,Gender,Subscription_Length_Months,Monthly_Bill,Total_Usage_GB,Payment_Method,Contract_Type,Has_AutoPay,Num_Complaints,Support_Calls_Made,Data_Overage_Fees,Has_Streaming_Service,Num_Devices_Connected,Region,Income_Level,Marital_Status,Has_Referral,Last_Upgrade_Months_Ago,Avg_Session_Duration_Minutes,Churn
+CUST1000,56,Female,16,102.64,119.38,Crypto,Yearly,Yes,0,1,49.06,No,7,South,Low,Divorced,Yes,47,60.57,No
+CUST1001,69,Female,13,196.41,337.59,Debit Card,Yearly,Yes,7,12,12.83,Yes,5,West,High,Divorced,Yes,52,101.4,Yes
+CUST1002,46,Male,30,108.67,14.76,PayPal,Yearly,No,3,4,32.71,Yes,1,North,Medium,Married,Yes,34,46.56,Yes
+CUST1003,32,Female,19,79.18,56.53,Crypto,Monthly,No,2,14,9.9,No,8,East,High,Divorced,Yes,21,103.88,Yes
+CUST1004,60,Male,17,134.01,400.96,Crypto,Yearly,No,6,3,28.27,Yes,4,North,High,Single,No,37,51.78,Yes
+CUST1005,25,Male,19,63.23,93.38,PayPal,Monthly,Yes,2,10,23.2,No,9,West,Low,Divorced,No,30,42.75,Yes
+CUST1006,78,Female,28,33.66,328.11,Debit Card,Yearly,Yes,7,1,48.6,Yes,6,West,Low,Married,No,13,57.21,Yes
+CUST1007,38,Male,26,43.2,122.9,Credit Card,Yearly,Yes,5,14,30.43,Yes,1,West,High,Married,No,23,92.68,No
+CUST1008,56,Male,26,43.05,54.22,Credit Card,Monthly,Yes,4,14,17.48,Yes,3,South,High,Married,Yes,49,19.49,No
+CUST1009,75,Male,23,47.34,125.37,Debit Card,Monthly,Yes,3,2,5.7,Yes,3,East,High,Single,No,48,27.59,Yes
+CUST1010,36,Female,9,44.99,362.52,Crypto,Monthly,No,7,6,7.56,Yes,4,East,High,Single,No,31,114.42,No
+CUST1011,40,Female,12,135.36,428.57,Crypto,Yearly,No,7,7,11.27,No,6,West,Low,Single,Yes,35,25.18,No
+CUST1012,28,Male,1,52.74,415.96,Crypto,Yearly,Yes,0,11,12.55,No,7,West,Medium,Single,No,31,70.29,Yes
+CUST1013,28,Female,1,82.22,201.61,Crypto,Monthly,Yes,8,12,42.53,No,4,South,Low,Single,No,54,71.62,Yes
+CUST1014,41,Female,34,181.42,335.7,Debit Card,Monthly,Yes,4,5,28.06,No,6,North,Medium,Divorced,Yes,14,61.31,No
+CUST1015,70,Female,32,105.31,106.47,Crypto,Monthly,Yes,3,10,26.17,No,1,North,High,Single,Yes,42,79.15,Yes
+CUST1016,53,Female,25,140.16,150.11,PayPal,Monthly,No,5,4,5.74,No,8,East,Medium,Single,Yes,57,31.43,Yes
+CUST1017,57,Male,1,51.02,448.69,Crypto,Yearly,Yes,5,12,43.01,Yes,7,South,Low,Divorced,No,34,68.56,No
+CUST1018,41,Male,16,54.61,11.44,Credit Card,Monthly,Yes,1,0,36.14,Yes,9,West,Low,Single,No,2,47.8,Yes
+CUST1019,20,Female,5,27.36,47.33,Crypto,Monthly,Yes,7,7,3.38,No,3,East,High,Married,Yes,15,81.09,No
+CUST1020,39,Female,22,50.41,107.9,Debit Card,Monthly,Yes,6,2,35.39,No,2,South,Low,Single,Yes,4,21.24,No
+CUST1021,70,Male,29,70.15,18.13,Credit Card,Monthly,No,0,14,27.18,Yes,1,North,High,Single,No,20,70.65,No
+CUST1022,19,Male,3,51.86,94.81,Debit Card,Yearly,Yes,4,5,4.09,Yes,3,South,Low,Married,Yes,9,26.31,No
+CUST1023,41,Female,12,35.97,293.61,Debit Card,Monthly,Yes,5,2,22.92,Yes,5,North,Low,Married,No,18,37.04,No
+CUST1024,61,Male,26,41.71,213.61,Credit Card,Yearly,No,3,6,24.23,No,2,South,High,Married,Yes,24,30.15,Yes
+CUST1025,47,Female,16,102.94,446.87,Debit Card,Monthly,No,1,12,8.29,No,3,East,Medium,Married,Yes,3,26.03,Yes
+CUST1026,55,Female,22,57.14,409.63,Debit Card,Monthly,No,3,13,47.28,No,4,North,Low,Single,No,28,99.96,Yes
+CUST1027,19,Male,29,85.57,174.2,Crypto,Yearly,Yes,0,6,42.5,Yes,7,East,Medium,Married,Yes,18,37.86,Yes
+CUST1028,77,Male,14,110.62,133.41,PayPal,Monthly,Yes,6,11,33.45,Yes,3,East,Low,Married,Yes,42,111.62,No
+CUST1029,38,Female,28,144.27,192.95,Debit Card,Yearly,No,1,14,23.11,No,9,North,Low,Divorced,Yes,1,116.54,No
+CUST1030,50,Female,5,27.08,297.2,Debit Card,Yearly,No,1,8,20.59,No,8,North,Low,Married,No,9,70.69,Yes
+CUST1031,29,Male,30,163.89,137.69,Debit Card,Monthly,No,8,4,32.55,Yes,4,West,Low,Married,Yes,42,21.45,No
+CUST1032,75,Female,5,133.02,313.95,Crypto,Yearly,No,4,14,27.27,Yes,1,West,Medium,Divorced,Yes,24,48.07,Yes
+CUST1033,39,Male,12,34.72,207.66,PayPal,Yearly,No,1,7,3.11,Yes,1,West,Medium,Divorced,Yes,19,96.74,Yes
+CUST1034,78,Female,16,177.24,278.26,Credit Card,Yearly,No,8,9,25.63,Yes,1,East,Low,Single,Yes,47,47.25,Yes
+CUST1035,61,Male,26,185.76,220.88,Crypto,Yearly,Yes,8,9,40.32,No,1,East,Low,Divorced,Yes,18,15.01,No
+CUST1036,42,Male,26,30.99,150.76,Crypto,Yearly,Yes,0,7,22.96,Yes,8,West,Medium,Single,Yes,22,69.03,No
+CUST1037,66,Male,21,69.84,474.48,PayPal,Yearly,Yes,2,0,2.6,Yes,3,East,High,Divorced,No,23,102.19,No
+CUST1038,44,Female,33,165.12,382.98,PayPal,Yearly,No,3,11,39.31,Yes,6,East,High,Divorced,No,10,96.53,No
+CUST1039,76,Female,30,154.69,74.36,Crypto,Yearly,No,6,4,10.07,No,3,North,Medium,Single,Yes,45,25.14,Yes
+CUST1040,59,Male,23,53.21,434.89,Credit Card,Monthly,No,9,2,12.93,No,5,North,Low,Divorced,No,33,82.37,No
+CUST1041,45,Female,10,57.68,246.28,Crypto,Monthly,No,3,0,8.24,Yes,7,East,Low,Single,No,54,30.36,No
+CUST1042,77,Male,5,86.68,447.8,PayPal,Yearly,No,1,3,16.51,Yes,2,West,High,Divorced,Yes,27,30.09,No
+CUST1043,33,Male,34,107.21,400.93,Credit Card,Monthly,No,6,7,37.84,Yes,6,South,High,Married,No,4,105.52,Yes
+CUST1044,32,Female,31,131.29,215.48,PayPal,Yearly,Yes,5,2,25.97,No,6,West,Medium,Divorced,No,58,33.71,Yes
+CUST1045,79,Female,10,86.4,16.12,Credit Card,Yearly,Yes,2,9,10.24,No,3,South,High,Single,No,4,35.27,No
+CUST1046,79,Male,19,103.26,138,Debit Card,Monthly,No,5,1,43.89,No,6,West,Medium,Divorced,No,50,5.08,No
+CUST1047,64,Female,32,154.54,273.11,PayPal,Yearly,Yes,5,10,43.98,Yes,5,North,High,Single,No,20,105.13,No
+CUST1048,79,Female,1,26.6,318.57,PayPal,Yearly,No,4,8,43.53,No,2,East,High,Single,No,11,96.15,No
+CUST1049,68,Male,5,65.44,132.65,Crypto,Yearly,Yes,3,9,11.94,Yes,9,East,High,Married,No,49,77.14,Yes
+CUST1050,61,Male,4,148.4,73.98,PayPal,Yearly,No,9,4,22.56,Yes,8,North,Low,Married,No,3,91.28,No
+CUST1051,72,Female,16,181.14,418.29,PayPal,Monthly,No,0,13,49.25,Yes,3,South,Low,Single,Yes,53,22.49,No
+CUST1052,69,Male,24,112.1,492.28,Debit Card,Yearly,Yes,9,6,38.6,No,8,South,Low,Divorced,Yes,48,57.71,No
+CUST1053,74,Male,16,115.78,265.22,PayPal,Yearly,Yes,5,10,1.36,Yes,9,South,High,Single,No,41,45.39,Yes
+CUST1054,20,Female,2,39.29,89.98,Debit Card,Yearly,No,1,10,3.26,No,3,North,Medium,Single,No,19,15.78,Yes
+CUST1055,54,Male,28,100.53,139.79,Debit Card,Monthly,No,2,1,23.2,No,3,South,Medium,Divorced,Yes,37,60.91,No
+CUST1056,68,Male,32,115.87,14.1,Debit Card,Yearly,Yes,7,8,45.46,Yes,2,North,Medium,Divorced,No,24,110.89,No
+CUST1057,24,Female,27,63.64,457.58,Debit Card,Monthly,Yes,9,12,26.94,Yes,8,West,Medium,Divorced,No,13,9.61,No
+CUST1058,38,Female,20,68.46,63.29,Credit Card,Monthly,No,5,8,24.89,No,1,West,Low,Divorced,Yes,10,38.52,No
+CUST1059,26,Male,24,87.91,290.38,Crypto,Yearly,Yes,2,3,5.27,Yes,8,North,Low,Single,Yes,31,28.87,No
+CUST1060,56,Male,12,23.61,140.66,Credit Card,Yearly,No,6,3,32.84,No,7,East,High,Single,Yes,10,32.39,Yes
+CUST1061,35,Female,35,77.97,279.32,PayPal,Monthly,No,3,5,41.11,Yes,7,West,High,Married,No,17,109.47,Yes
+CUST1062,21,Female,33,58.06,327.45,Credit Card,Yearly,No,8,9,19.02,No,3,South,Medium,Single,No,26,58.83,Yes
+CUST1063,42,Female,33,78.95,415.72,Credit Card,Monthly,No,4,9,38.78,No,1,North,Low,Divorced,Yes,54,58.62,No
+CUST1064,77,Female,12,41.56,107.18,PayPal,Monthly,Yes,2,9,48.22,No,4,South,Medium,Married,Yes,53,92.47,Yes
+CUST1065,31,Male,3,180.29,10.44,PayPal,Yearly,Yes,1,5,10.19,No,9,South,High,Divorced,No,17,22.77,Yes
+CUST1066,67,Female,1,126.85,72.76,PayPal,Yearly,Yes,1,11,26.17,Yes,5,East,High,Single,Yes,55,61.04,Yes
+CUST1067,75,Female,33,142.24,450.51,Credit Card,Monthly,Yes,2,0,14.36,Yes,1,South,Medium,Married,No,22,54.45,No
+CUST1068,26,Male,10,162.05,437.58,Credit Card,Monthly,Yes,1,13,39.64,No,5,East,High,Divorced,No,10,73.64,No
+CUST1069,43,Female,29,109.72,300.72,PayPal,Monthly,Yes,3,13,28.88,No,8,West,Medium,Married,Yes,20,119.95,Yes
+CUST1070,70,Male,13,35.65,302.26,Crypto,Monthly,Yes,1,8,31.73,Yes,8,North,Low,Married,Yes,43,93.49,No
+CUST1071,19,Female,12,116.68,334.19,Crypto,Yearly,No,9,1,39.9,Yes,5,South,Medium,Single,No,4,50.75,Yes
+CUST1072,37,Female,31,125.63,91.81,Debit Card,Yearly,Yes,8,4,19.8,Yes,9,North,Low,Divorced,Yes,22,100.17,Yes
+CUST1073,45,Female,2,154.18,457.63,PayPal,Yearly,Yes,1,8,45.75,Yes,1,South,Low,Married,Yes,40,24.63,Yes
+CUST1074,64,Male,35,97.7,212.29,Debit Card,Yearly,No,8,3,26.65,Yes,4,North,High,Married,Yes,58,8.5,Yes
+CUST1075,77,Male,23,42.96,194.65,Crypto,Yearly,Yes,5,10,7.9,Yes,3,South,High,Divorced,Yes,24,28.51,No
+CUST1076,24,Female,17,71.08,261.86,Debit Card,Monthly,Yes,0,2,34.79,No,2,South,High,Married,No,40,44.15,No
+CUST1077,61,Male,26,85.35,28.25,PayPal,Yearly,No,3,14,39.66,Yes,8,South,Medium,Married,No,53,63.72,No
+CUST1078,78,Male,8,136.27,87.31,PayPal,Yearly,Yes,0,6,15.84,Yes,7,South,Medium,Married,No,9,75.74,No
+CUST1079,25,Male,29,122.74,370.33,PayPal,Yearly,Yes,5,5,42.86,No,9,South,High,Divorced,No,21,109.72,Yes
+CUST1080,64,Male,26,84.1,45.99,Credit Card,Yearly,Yes,3,7,45.31,Yes,2,South,Medium,Divorced,Yes,18,63.63,No
+CUST1081,52,Male,10,197.57,303.56,Debit Card,Yearly,No,2,2,13.85,Yes,4,South,High,Divorced,Yes,0,62.65,Yes
+CUST1082,31,Male,26,129.04,126.45,Crypto,Monthly,Yes,2,4,49.18,Yes,6,South,Medium,Divorced,No,6,10.78,No
+CUST1083,34,Female,34,62.7,197.7,Crypto,Monthly,Yes,8,9,7.04,Yes,3,South,Low,Single,No,3,9.01,No
+CUST1084,53,Female,7,38.32,147.9,Crypto,Monthly,No,5,3,10.1,Yes,8,North,Low,Married,Yes,0,68.38,No
+CUST1085,67,Male,4,47.51,181.06,Credit Card,Yearly,Yes,8,14,9.21,No,3,East,High,Divorced,No,14,55.39,Yes
+CUST1086,57,Female,11,64.27,360.93,Credit Card,Monthly,No,4,12,44.7,Yes,2,South,Medium,Married,No,39,101.51,Yes
+CUST1087,21,Female,29,48.92,152.08,PayPal,Monthly,No,1,3,32.71,No,3,East,Medium,Married,Yes,11,23.48,Yes
+CUST1088,19,Female,25,53.58,285.37,Crypto,Yearly,Yes,7,3,7.61,No,6,South,Low,Single,No,21,7.87,Yes
+CUST1089,79,Female,21,71.32,240.64,Credit Card,Yearly,No,4,9,22.02,Yes,2,South,Low,Divorced,Yes,21,56.64,No
+CUST1090,23,Male,10,51.21,333.52,PayPal,Yearly,No,1,7,30.76,No,8,North,High,Divorced,Yes,49,32.31,Yes
+CUST1091,71,Female,9,181.42,468.73,Crypto,Monthly,Yes,3,5,4.17,Yes,1,West,Low,Married,No,46,10.71,Yes
+CUST1092,59,Female,24,34.44,367.62,Debit Card,Monthly,No,8,2,44.12,No,7,West,High,Divorced,Yes,16,88.33,No
+CUST1093,21,Male,35,114.41,111.4,PayPal,Yearly,No,3,9,40.18,No,2,North,Low,Married,No,28,17.83,No
+CUST1094,71,Male,35,93.87,20.44,Credit Card,Yearly,Yes,3,4,25.26,Yes,6,East,Low,Married,Yes,45,74.96,Yes
+CUST1095,46,Female,18,196.83,134.82,Credit Card,Monthly,Yes,1,5,48.36,Yes,2,West,Medium,Single,No,13,37.32,No
+CUST1096,35,Female,32,40.17,299.56,PayPal,Monthly,Yes,5,4,20.89,Yes,2,North,Low,Single,No,49,24.95,Yes
+CUST1097,43,Female,24,91.61,30.46,PayPal,Yearly,No,1,5,49.21,Yes,8,North,Low,Single,No,19,48.67,No
+CUST1098,61,Female,23,194.5,250.7,Credit Card,Yearly,Yes,6,7,33.4,Yes,2,West,High,Married,Yes,49,97.17,Yes
+CUST1099,51,Female,32,175.79,300.44,Debit Card,Monthly,No,2,6,31.73,No,7,East,Low,Divorced,Yes,47,50.09,Yes
+CUST1100,27,Female,12,167.07,170.45,Crypto,Yearly,No,2,4,8.3,No,3,North,High,Single,No,32,91.34,Yes
+CUST1101,79,Male,13,66.42,386.6,Debit Card,Monthly,No,4,9,44.1,No,8,South,Low,Divorced,Yes,54,19.43,Yes
+CUST1102,53,Female,23,50.76,57.77,PayPal,Monthly,No,2,5,21.37,No,7,East,Low,Single,No,58,93.87,Yes
+CUST1103,31,Female,25,140.36,42.19,Debit Card,Monthly,No,1,13,8.11,No,8,East,High,Single,No,42,32.25,No
+CUST1104,48,Male,35,187.29,365.45,Credit Card,Monthly,No,9,3,0.63,No,7,West,Medium,Married,Yes,14,82.9,Yes
+CUST1105,65,Male,30,120.22,250.27,PayPal,Yearly,No,8,11,27.99,No,6,West,High,Single,No,11,70.06,Yes
+CUST1106,32,Male,17,122.89,345.76,Crypto,Yearly,Yes,1,8,26.37,Yes,7,South,High,Single,Yes,39,111.85,Yes
+CUST1107,25,Male,20,70.4,220.24,Credit Card,Monthly,Yes,1,12,35.97,Yes,5,North,High,Married,No,53,49.54,Yes
+CUST1108,31,Female,25,158.51,126.97,Credit Card,Monthly,No,7,3,44.51,No,7,West,Medium,Divorced,Yes,19,12.61,Yes
+CUST1109,40,Female,22,53.67,410.46,Crypto,Monthly,No,8,0,3.97,No,1,West,Low,Single,No,29,7.2,No
+CUST1110,77,Female,13,78.26,400.71,Crypto,Monthly,Yes,6,6,36.57,Yes,1,East,High,Married,No,37,100.09,No
+CUST1111,74,Female,19,96.58,348.87,Debit Card,Monthly,No,2,6,9.37,Yes,9,West,High,Single,Yes,2,65.34,Yes
+CUST1112,79,Female,12,111.37,139.71,PayPal,Yearly,Yes,8,3,42.91,Yes,5,West,Medium,Married,No,27,94.15,No
+CUST1113,57,Female,19,63.63,297.16,Crypto,Yearly,Yes,2,12,40.95,Yes,5,West,High,Divorced,No,55,31.96,Yes
+CUST1114,38,Male,12,40.67,183.68,Crypto,Yearly,Yes,4,13,27.04,No,3,West,Low,Divorced,Yes,25,44.68,No
+CUST1115,33,Female,9,129.91,50.33,PayPal,Yearly,No,8,2,35.51,Yes,5,East,Medium,Married,No,29,8.46,No
+CUST1116,62,Male,7,71.95,459.07,Crypto,Monthly,No,2,7,15.72,No,3,South,Low,Married,Yes,12,115.57,Yes
+CUST1117,35,Male,28,124.62,72.73,Crypto,Monthly,Yes,6,4,23.56,No,9,South,Low,Married,No,12,81.8,No
+CUST1118,64,Female,14,47.79,475.37,Debit Card,Monthly,Yes,0,9,41.08,No,9,North,Medium,Divorced,Yes,1,112.32,No
+CUST1119,70,Male,31,106.61,225.77,Credit Card,Monthly,Yes,3,6,22.96,Yes,6,West,High,Single,No,36,35.53,Yes
+CUST1120,41,Female,19,115.87,96.64,Credit Card,Monthly,Yes,3,3,17.89,Yes,1,East,Low,Divorced,No,48,75.32,Yes
+CUST1121,43,Male,16,29.33,273.24,Credit Card,Yearly,Yes,6,3,24.71,No,7,North,Low,Married,No,37,83.03,No
+CUST1122,42,Female,5,80.59,437.11,Credit Card,Monthly,No,7,7,41.41,No,7,North,Low,Married,Yes,1,41.52,No
+CUST1123,77,Male,35,44.19,367.45,Crypto,Yearly,Yes,0,13,16.76,No,4,South,Low,Divorced,Yes,35,102.53,No
+CUST1124,77,Female,12,31.41,404.25,PayPal,Yearly,No,4,7,8.69,Yes,8,East,Medium,Married,Yes,53,113.92,Yes
+CUST1125,77,Female,25,198.19,331.1,PayPal,Yearly,Yes,6,1,35.6,No,6,East,Medium,Divorced,Yes,25,106.76,No
+CUST1126,62,Female,21,78.02,347.68,Debit Card,Yearly,No,3,13,41.3,Yes,4,East,Low,Married,No,10,89.99,No
+CUST1127,58,Female,23,165.78,425.35,Debit Card,Monthly,No,3,1,5.03,No,4,South,High,Single,No,7,36.91,No
+CUST1128,46,Female,16,65.84,128.59,Crypto,Yearly,No,3,2,11.99,No,2,South,Low,Single,Yes,43,37.39,Yes
+CUST1129,32,Male,14,142.67,247.27,PayPal,Yearly,No,5,14,7.1,No,2,South,High,Married,Yes,39,115.79,Yes
+CUST1130,62,Male,31,156.84,114.5,PayPal,Yearly,No,6,11,17.4,Yes,4,South,Low,Divorced,Yes,42,6.18,Yes
+CUST1131,18,Male,5,127.21,493.9,Credit Card,Monthly,No,1,11,22.52,Yes,5,South,High,Single,No,21,87.35,Yes
+CUST1132,42,Female,35,104.88,472.31,Crypto,Monthly,Yes,4,2,37.44,No,8,West,Low,Divorced,Yes,19,86.22,No
+CUST1133,24,Male,23,94.13,24.52,Crypto,Monthly,No,3,0,32.56,Yes,6,West,High,Married,Yes,7,76.61,Yes
+CUST1134,26,Female,29,82.8,354.26,Credit Card,Yearly,Yes,2,14,31.05,No,4,East,Low,Divorced,No,28,118.86,No
+CUST1135,41,Female,11,187.32,463,Crypto,Yearly,No,6,13,17.62,Yes,7,North,Low,Single,No,39,40.87,No
+CUST1136,18,Male,18,169.51,94.38,Crypto,Monthly,No,5,2,42.07,Yes,8,East,High,Divorced,Yes,25,44.1,No
+CUST1137,61,Male,12,193.7,286.13,Debit Card,Yearly,Yes,6,5,23.56,Yes,2,North,Medium,Divorced,No,29,14.08,No
+CUST1138,25,Female,9,42.37,458.17,PayPal,Monthly,No,4,7,48.96,No,7,South,High,Married,Yes,16,55.92,Yes
+CUST1139,41,Male,10,151.56,21.8,Crypto,Monthly,Yes,5,12,31.71,Yes,2,North,Medium,Married,No,19,35.02,Yes
+CUST1140,28,Female,17,188.9,350.22,Debit Card,Yearly,Yes,4,11,6.31,Yes,2,East,Low,Married,Yes,51,44.49,Yes
+CUST1141,68,Female,7,52.62,152.19,PayPal,Yearly,Yes,6,13,33.81,No,8,East,High,Single,Yes,54,100.98,Yes
+CUST1142,34,Female,13,31.97,462.58,Credit Card,Yearly,Yes,1,9,16.26,No,2,North,High,Single,Yes,15,112.58,Yes
+CUST1143,25,Female,9,153.4,485.67,Debit Card,Yearly,No,4,5,34.32,No,9,West,High,Married,Yes,45,26.36,No
+CUST1144,52,Female,27,123.41,472.41,Debit Card,Monthly,No,5,4,3.48,No,1,South,Medium,Married,No,42,47.84,Yes
+CUST1145,52,Male,2,171.53,239.74,PayPal,Monthly,Yes,5,14,8.74,Yes,9,South,Medium,Single,No,6,111.79,Yes
+CUST1146,50,Male,5,45.16,431.71,Credit Card,Monthly,No,4,3,42.79,Yes,1,East,Low,Single,No,15,12.11,Yes
+CUST1147,76,Female,29,163.15,423.05,Debit Card,Monthly,No,9,2,11.36,Yes,2,West,Medium,Single,No,44,15.62,Yes
+CUST1148,22,Female,19,56.29,162.95,Crypto,Monthly,Yes,6,12,41.85,Yes,6,North,Medium,Single,Yes,58,23.72,No
+CUST1149,59,Male,8,49.46,415.31,Crypto,Yearly,No,9,3,13.96,Yes,6,South,Low,Married,Yes,46,73.45,No
+CUST1150,56,Male,1,49.57,23.32,Crypto,Monthly,Yes,7,13,32.14,No,1,West,High,Single,No,55,22.3,No
+CUST1151,75,Female,22,166.62,300.15,Credit Card,Monthly,Yes,6,6,34.71,Yes,7,South,High,Married,No,47,116.33,No
+CUST1152,58,Male,17,139.74,118.85,Debit Card,Monthly,No,4,0,25.63,Yes,8,West,Low,Divorced,No,26,56.37,No
+CUST1153,45,Female,7,114.15,64.68,Crypto,Yearly,No,0,6,15.27,Yes,2,West,High,Divorced,No,52,62.67,Yes
+CUST1154,24,Male,25,84.59,43.09,Credit Card,Yearly,No,4,0,10.63,No,8,East,Medium,Single,No,22,33.37,No
+CUST1155,26,Female,4,177.9,349.66,Crypto,Yearly,Yes,9,1,1.66,No,9,South,Low,Divorced,Yes,23,59.16,No
+CUST1156,25,Male,6,90.64,173.24,PayPal,Yearly,Yes,1,14,15.2,Yes,6,North,Low,Divorced,Yes,8,81.12,No
+CUST1157,29,Female,31,166.99,363.76,Debit Card,Monthly,No,4,3,32.66,No,5,East,Low,Divorced,Yes,34,91.39,Yes
+CUST1158,51,Male,19,99.04,37.35,Debit Card,Monthly,No,4,0,46.92,No,9,East,High,Single,No,50,91.69,Yes
+CUST1159,50,Male,27,87.85,161.07,Credit Card,Yearly,No,1,10,43.56,No,9,North,Low,Single,No,19,71.46,No
+CUST1160,65,Female,10,103.28,272.05,Credit Card,Yearly,No,4,11,38.3,No,1,East,Low,Divorced,No,36,109,Yes
+CUST1161,72,Male,26,74.25,396.41,Debit Card,Monthly,Yes,3,10,39.42,No,3,West,Low,Married,No,41,99,Yes
+CUST1162,40,Female,19,154.57,162.78,Crypto,Monthly,No,0,14,33.25,No,9,West,High,Divorced,Yes,16,92.06,No
+CUST1163,79,Male,3,110.49,314.82,Crypto,Yearly,Yes,2,10,13.01,No,2,South,Medium,Single,Yes,46,11.39,Yes
+CUST1164,41,Female,13,61.8,443.56,PayPal,Yearly,Yes,0,8,45.36,Yes,4,South,Low,Single,No,30,5.79,Yes
+CUST1165,54,Male,28,181.92,309.85,Crypto,Yearly,No,4,11,33.54,Yes,4,North,Medium,Single,Yes,54,29.43,Yes
+CUST1166,52,Female,20,89.1,120.31,Credit Card,Yearly,No,3,5,28.02,No,2,South,High,Divorced,Yes,56,81.31,No
+CUST1167,61,Male,28,117.84,17.08,Credit Card,Monthly,No,6,12,5.55,Yes,3,West,High,Married,No,7,52.29,No
+CUST1168,57,Female,8,183.16,435.7,Crypto,Monthly,Yes,4,0,22.35,Yes,3,North,High,Single,No,14,51.28,No
+CUST1169,39,Male,1,132.36,15.53,Credit Card,Monthly,No,9,0,23.02,No,1,North,High,Single,No,30,106.73,Yes
+CUST1170,44,Female,3,41.04,437.98,Debit Card,Yearly,No,3,5,43.23,Yes,6,South,Medium,Divorced,No,52,107.99,No
+CUST1171,52,Female,13,189.17,266.82,Debit Card,Yearly,Yes,1,3,27.33,No,8,West,Low,Married,No,29,109.56,Yes
+CUST1172,18,Female,28,132.99,469.84,Crypto,Monthly,No,3,3,19.02,No,3,North,High,Divorced,No,45,41.1,Yes
+CUST1173,52,Male,25,80.28,400.4,Debit Card,Monthly,Yes,1,14,48.84,No,5,West,High,Single,Yes,19,84.47,Yes
+CUST1174,54,Female,33,45.07,498.98,Debit Card,Monthly,No,7,10,5.54,Yes,1,West,Medium,Married,Yes,59,36.24,No
+CUST1175,64,Male,6,162.92,178.6,PayPal,Monthly,Yes,2,14,21.13,Yes,7,West,Medium,Married,No,38,26.92,No
+CUST1176,31,Female,32,131.61,384.76,PayPal,Yearly,No,8,5,2.1,Yes,1,South,High,Single,Yes,52,26.23,No
+CUST1177,20,Male,21,116.02,203.96,Debit Card,Monthly,No,3,14,37,Yes,9,East,Low,Married,No,54,44.34,No
+CUST1178,18,Female,16,180.9,242.54,Crypto,Monthly,Yes,5,13,45.9,No,8,East,Low,Married,No,11,54.45,Yes
+CUST1179,22,Male,21,161.95,315.62,PayPal,Monthly,Yes,9,11,14,No,7,North,High,Divorced,No,48,100.56,No
+CUST1180,43,Male,11,47.3,437.47,Credit Card,Monthly,No,4,10,42.92,Yes,7,West,Medium,Single,No,16,18.79,Yes
+CUST1181,72,Female,35,76.11,492.12,Credit Card,Monthly,Yes,9,6,14.61,No,5,South,High,Single,Yes,41,89.52,No
+CUST1182,31,Male,19,64.73,385.3,Credit Card,Monthly,Yes,0,8,45.54,No,5,West,High,Single,No,29,66.12,No
+CUST1183,56,Male,20,153.91,211.79,Crypto,Monthly,Yes,8,9,37.7,Yes,5,West,Medium,Single,Yes,28,38.11,No
+CUST1184,44,Female,18,26.04,213.57,Debit Card,Yearly,Yes,0,4,40.25,No,1,South,High,Single,No,18,61.67,Yes
+CUST1185,26,Male,14,122.58,370.1,Credit Card,Yearly,No,7,8,0.9,Yes,8,East,High,Married,No,45,39.49,Yes
+CUST1186,32,Male,15,157.24,123.19,Crypto,Yearly,No,8,3,48.14,No,1,West,High,Divorced,No,10,73.55,Yes
+CUST1187,32,Male,31,177.82,59.68,PayPal,Yearly,Yes,8,12,36.33,Yes,4,West,Medium,Single,Yes,33,54.89,Yes
+CUST1188,43,Female,1,81.57,180.54,Debit Card,Monthly,Yes,0,9,15.24,No,9,East,Low,Divorced,No,49,23.91,Yes
+CUST1189,59,Male,3,167.83,147.18,PayPal,Yearly,Yes,1,1,41.47,No,9,South,Low,Divorced,No,6,18.41,No
+CUST1190,77,Female,16,39.91,151.67,Crypto,Yearly,Yes,0,2,14.08,Yes,5,North,Medium,Married,No,43,67.87,Yes
+CUST1191,30,Male,23,172.36,120.64,Credit Card,Monthly,No,9,12,43.64,Yes,4,East,Low,Single,Yes,57,108.78,Yes
+CUST1192,68,Male,11,42.95,25.84,Credit Card,Monthly,No,1,10,5.63,Yes,3,North,High,Married,Yes,33,44.56,Yes
+CUST1193,49,Male,12,91.51,13.85,Crypto,Yearly,Yes,9,0,35.18,Yes,3,North,Low,Single,Yes,58,89.3,Yes
+CUST1194,56,Female,10,163.51,493.92,Credit Card,Yearly,Yes,7,13,27.03,No,5,East,High,Married,No,19,80.75,No
+CUST1195,66,Male,32,46.99,216.75,Debit Card,Monthly,Yes,4,13,4.83,No,1,West,Low,Divorced,Yes,49,112.13,Yes
+CUST1196,69,Male,16,61.27,195.24,Crypto,Yearly,No,6,5,12.09,Yes,5,North,Medium,Single,No,37,99.41,No
+CUST1197,78,Female,8,150.01,341.43,PayPal,Monthly,Yes,1,12,0.62,No,6,North,Low,Divorced,Yes,23,70.16,No
+CUST1198,49,Male,12,149.61,113.04,Crypto,Monthly,No,7,5,23.44,Yes,7,South,Low,Divorced,Yes,9,80.56,No
+CUST1199,21,Female,24,135.41,475.23,Debit Card,Monthly,Yes,5,0,15.06,Yes,9,West,Low,Married,No,31,108.31,Yes
+CUST1200,47,Female,28,144.91,394.24,Debit Card,Monthly,No,7,10,29.92,No,3,North,Medium,Single,Yes,51,50.94,No
+CUST1201,54,Male,8,117.69,49.26,Crypto,Yearly,Yes,0,12,14.86,No,2,South,Low,Divorced,No,14,42.58,Yes
+CUST1202,40,Female,28,65.32,211.7,Crypto,Monthly,No,0,2,15,Yes,3,West,Medium,Married,No,36,6.24,Yes
+CUST1203,56,Male,26,82.23,440.16,Credit Card,Monthly,Yes,6,4,37.16,Yes,9,East,High,Single,Yes,19,100.05,Yes
+CUST1204,62,Female,8,52.69,472.64,Debit Card,Yearly,Yes,7,2,2.41,Yes,7,East,Low,Single,No,2,97.11,Yes
+CUST1205,32,Female,28,183.52,236.36,Crypto,Monthly,Yes,2,9,45.14,No,9,South,Medium,Divorced,No,36,17.01,Yes
+CUST1206,60,Male,28,125.01,308.64,Crypto,Yearly,No,4,2,42.61,No,2,East,Medium,Single,Yes,56,71.34,No
+CUST1207,46,Female,27,92.15,87.68,Debit Card,Yearly,Yes,0,13,33.39,No,5,North,Low,Divorced,Yes,39,58.36,No
+CUST1208,53,Female,17,103.16,495.63,Crypto,Yearly,No,6,9,29.66,No,4,West,High,Single,No,7,18.65,Yes
+CUST1209,30,Female,9,190.51,119.68,Credit Card,Monthly,No,4,2,44.62,Yes,2,North,Medium,Married,Yes,39,117.77,No
+CUST1210,49,Female,33,47.6,471.65,Debit Card,Yearly,Yes,7,4,9.27,Yes,9,North,Low,Divorced,No,43,29.69,Yes
+CUST1211,24,Female,20,125.52,326.58,Credit Card,Yearly,Yes,7,12,3.95,Yes,9,East,High,Divorced,No,55,12.73,No
+CUST1212,76,Male,13,111.06,305.83,Credit Card,Monthly,Yes,8,4,11.98,Yes,6,North,Medium,Single,Yes,22,73.41,No
+CUST1213,68,Female,28,130.06,258.78,Credit Card,Yearly,No,6,3,39.73,Yes,6,East,Medium,Single,Yes,39,89.97,No
+CUST1214,39,Male,29,23.26,119.18,Credit Card,Yearly,Yes,0,0,1.73,Yes,8,West,High,Divorced,Yes,10,8.73,No
+CUST1215,45,Female,13,176.98,92.38,Debit Card,Yearly,No,2,4,29.14,No,6,West,High,Single,Yes,45,80.75,No
+CUST1216,19,Male,35,187.78,114.14,Credit Card,Yearly,No,7,9,49.77,No,1,North,Low,Married,No,7,66.21,Yes
+CUST1217,59,Male,6,121.72,97.29,Credit Card,Yearly,Yes,2,4,42.78,Yes,4,South,Low,Single,No,28,16.88,Yes
+CUST1218,62,Female,18,145.4,390.89,Crypto,Monthly,Yes,7,3,26.07,Yes,7,East,Medium,Married,Yes,29,24.84,No
+CUST1219,79,Female,5,186.05,178.31,Debit Card,Yearly,Yes,0,5,3.18,No,2,East,High,Married,Yes,55,70.32,Yes
+CUST1220,74,Female,25,147.3,33.63,Debit Card,Yearly,Yes,4,9,41.57,No,9,North,High,Married,No,59,39.08,No
+CUST1221,70,Male,2,47.46,484.71,PayPal,Monthly,Yes,3,3,29.95,No,8,East,High,Married,No,9,112.91,Yes
+CUST1222,23,Female,10,123.73,442.47,Debit Card,Monthly,Yes,4,13,5.75,No,8,East,Medium,Married,No,38,99.16,No
+CUST1223,45,Male,30,129.21,464.24,Debit Card,Monthly,No,7,6,4.69,Yes,7,South,High,Single,No,27,118.11,No
+CUST1224,45,Male,5,96.34,497.48,PayPal,Yearly,No,9,6,45.48,Yes,4,South,High,Married,Yes,48,34.86,No
+CUST1225,61,Male,33,152.56,91.08,Debit Card,Monthly,No,3,1,33.46,Yes,2,North,Medium,Single,No,35,116.52,Yes
+CUST1226,61,Female,1,188.19,201.14,Debit Card,Yearly,Yes,3,2,41.46,Yes,3,South,Low,Married,No,12,54.59,Yes
+CUST1227,37,Female,18,186.6,380.33,Debit Card,Yearly,No,2,0,43.95,Yes,6,North,Low,Divorced,Yes,31,44.96,No
+CUST1228,47,Male,32,101.15,349.53,Debit Card,Monthly,No,6,7,28.59,No,5,West,Medium,Married,No,35,10.79,No
+CUST1229,79,Male,11,40.38,81.18,PayPal,Monthly,No,2,8,25.87,Yes,8,North,High,Divorced,No,36,11.07,Yes
+CUST1230,28,Female,21,197.27,408.84,Debit Card,Yearly,No,2,3,21.52,No,6,West,Medium,Married,Yes,25,84.58,Yes
+CUST1231,75,Male,26,171,116.1,Debit Card,Monthly,No,9,5,15.85,Yes,6,North,Low,Married,Yes,21,57.66,Yes
+CUST1232,72,Female,25,42.44,115.79,PayPal,Yearly,Yes,4,8,21.73,Yes,1,East,Low,Married,Yes,3,31.05,Yes
+CUST1233,45,Male,22,185.75,270.8,Crypto,Monthly,Yes,4,5,38.69,Yes,4,South,Medium,Divorced,No,30,75.61,Yes
+CUST1234,42,Female,27,176.58,298.51,Credit Card,Monthly,No,5,13,30.1,Yes,5,West,Medium,Divorced,No,17,34.08,No
+CUST1235,56,Male,13,113.39,292.14,Crypto,Monthly,No,7,11,44.63,Yes,3,North,Low,Married,Yes,37,71.43,Yes
+CUST1236,79,Female,33,126.43,50.29,PayPal,Yearly,No,9,11,22.17,No,9,South,Medium,Single,Yes,23,46.31,No
+CUST1237,50,Male,34,91.82,439.34,Credit Card,Monthly,Yes,5,11,30.35,No,1,North,Low,Married,No,55,99.71,No
+CUST1238,18,Female,35,29.86,136.47,PayPal,Yearly,Yes,0,8,31.57,No,6,South,Medium,Divorced,Yes,22,99.38,Yes
+CUST1239,74,Female,1,80.34,69.11,PayPal,Yearly,No,7,14,29.58,Yes,6,South,Medium,Married,Yes,21,59.9,Yes
+CUST1240,44,Male,21,164.51,444.93,Debit Card,Yearly,Yes,7,3,35.13,Yes,5,North,Medium,Divorced,Yes,1,45.34,No
+CUST1241,79,Male,6,20.83,478.05,Credit Card,Yearly,Yes,8,7,11.87,No,5,West,Low,Divorced,No,30,46.69,Yes
+CUST1242,74,Female,28,80.03,431.75,Debit Card,Monthly,No,8,8,25.62,Yes,5,West,Medium,Divorced,No,54,97.66,No
+CUST1243,69,Male,17,91.67,405.71,Credit Card,Yearly,Yes,1,3,5.21,Yes,6,East,Low,Married,No,10,42.74,Yes
+CUST1244,30,Female,5,116.73,329.34,PayPal,Yearly,Yes,1,4,19.23,No,8,South,Low,Divorced,No,27,29.04,Yes
+CUST1245,58,Male,31,185.57,277.67,PayPal,Monthly,No,2,13,24.38,Yes,2,East,Medium,Divorced,No,45,14.74,Yes
+CUST1246,20,Female,5,82.34,48.06,Crypto,Yearly,Yes,0,7,32.61,No,6,East,Medium,Married,No,31,58.67,No
+CUST1247,56,Female,3,82.45,207.18,Credit Card,Monthly,Yes,3,11,47.53,Yes,1,North,Low,Divorced,Yes,4,60.45,Yes
+CUST1248,23,Female,23,152.75,189.48,Debit Card,Yearly,No,3,9,30.03,No,4,North,Low,Married,No,37,101.7,No
+CUST1249,25,Female,10,101.4,133.58,Crypto,Monthly,Yes,8,13,37.18,Yes,3,North,High,Divorced,No,9,30.44,Yes
+CUST1250,44,Female,10,60.43,363.09,Crypto,Yearly,Yes,8,5,25.31,Yes,9,South,Low,Single,Yes,39,48.81,No
+CUST1251,26,Female,19,101.44,250.46,Crypto,Monthly,No,8,11,31.71,No,3,North,High,Single,No,45,97.97,Yes
+CUST1252,79,Male,17,45.35,45.12,Debit Card,Yearly,No,9,6,3.55,Yes,6,North,High,Divorced,No,23,99.72,No
+CUST1253,54,Male,21,51.75,113.99,Crypto,Yearly,No,6,2,12.72,Yes,1,South,High,Single,Yes,34,49.23,No
+CUST1254,50,Male,14,109.71,343.21,Debit Card,Monthly,Yes,1,6,18.09,No,6,South,Medium,Married,Yes,43,57.8,No
+CUST1255,68,Female,9,95.41,42.68,Crypto,Monthly,No,9,11,23.62,Yes,4,West,Medium,Single,Yes,47,39.88,No
+CUST1256,59,Female,1,184.67,426.35,Debit Card,Monthly,Yes,4,13,2.28,No,8,North,Low,Divorced,No,59,112.24,No
+CUST1257,61,Female,13,85.23,250.1,PayPal,Monthly,No,3,7,7,Yes,9,North,High,Divorced,Yes,22,18.64,No
+CUST1258,41,Female,4,124.51,242.89,PayPal,Yearly,Yes,7,9,13.84,Yes,4,North,Medium,Married,No,16,112.38,Yes
+CUST1259,32,Male,1,133.81,298.24,PayPal,Yearly,No,1,5,48.58,Yes,6,West,Medium,Divorced,No,0,83.64,No
+CUST1260,76,Male,32,22.36,413.22,PayPal,Monthly,No,5,14,16.57,Yes,1,North,Medium,Married,No,54,66.13,No
+CUST1261,71,Female,34,139.44,177.17,PayPal,Yearly,No,4,9,24.1,No,4,West,Medium,Single,No,30,8.76,No
+CUST1262,49,Male,28,52.05,340.62,Crypto,Monthly,No,1,8,9.8,Yes,7,East,Medium,Single,Yes,30,59.69,Yes
+CUST1263,49,Male,31,192.99,285.04,Crypto,Monthly,Yes,9,12,30.54,No,1,West,High,Married,Yes,41,51.89,Yes
+CUST1264,41,Female,8,46.76,137.18,Crypto,Yearly,No,0,5,14.03,Yes,8,East,High,Married,No,56,23.54,Yes
+CUST1265,58,Male,26,94.63,439.92,Debit Card,Yearly,No,7,11,10.35,Yes,6,North,High,Divorced,Yes,54,80.49,No
+CUST1266,69,Female,34,35.36,399.73,Debit Card,Yearly,Yes,1,8,25.83,Yes,5,East,High,Single,No,41,116.68,Yes
+CUST1267,66,Male,3,199.44,330.93,Debit Card,Yearly,No,6,12,0.28,Yes,9,West,Low,Married,No,52,69.65,Yes
+CUST1268,79,Female,12,110.4,426.04,Debit Card,Yearly,Yes,8,3,0.38,No,2,South,High,Single,No,55,87.2,No
+CUST1269,66,Female,1,127.17,434.31,PayPal,Yearly,No,8,7,10.95,No,5,East,Medium,Married,Yes,33,12.87,No
+CUST1270,75,Female,5,32.07,355.64,PayPal,Yearly,No,7,10,1.84,No,6,East,High,Single,No,8,53.03,Yes
+CUST1271,69,Female,30,154.99,419.32,PayPal,Monthly,No,9,3,5.4,No,7,North,Low,Divorced,No,21,18.38,No
+CUST1272,29,Male,30,57.78,350.25,Credit Card,Monthly,Yes,8,1,16.94,Yes,5,West,Medium,Single,Yes,12,75.47,No
+CUST1273,79,Female,17,181.65,341.67,Crypto,Monthly,No,1,9,40.13,No,9,East,High,Single,Yes,24,112.93,No
+CUST1274,56,Female,23,56.93,311.21,Debit Card,Monthly,No,5,10,28.6,No,1,East,High,Single,Yes,47,81.1,No
+CUST1275,19,Female,15,54.32,377.59,Debit Card,Monthly,No,3,8,25.63,Yes,7,East,High,Single,Yes,17,13.83,Yes
+CUST1276,20,Male,21,26.58,83.51,PayPal,Yearly,Yes,3,4,14.67,Yes,7,East,Medium,Single,No,50,45.79,No
+CUST1277,66,Female,14,104.97,441.03,Debit Card,Monthly,Yes,4,3,46.59,Yes,4,South,Medium,Divorced,Yes,11,68.33,Yes
+CUST1278,54,Male,2,121.67,436.56,Debit Card,Monthly,No,2,1,19.85,Yes,9,West,Low,Married,No,39,51.37,Yes
+CUST1279,66,Female,11,31.83,19.48,Crypto,Monthly,Yes,0,0,4.35,No,5,North,Medium,Single,Yes,16,100.87,Yes
+CUST1280,73,Male,34,159.59,413.78,PayPal,Monthly,No,7,10,30.85,No,4,North,Medium,Divorced,Yes,14,98.69,Yes
+CUST1281,34,Male,34,101.59,68.79,Crypto,Monthly,No,4,6,5.69,Yes,7,South,High,Single,Yes,41,75.36,No
+CUST1282,76,Female,18,114.39,170.88,Credit Card,Monthly,No,2,5,17.26,Yes,4,West,Medium,Single,Yes,14,47.95,No
+CUST1283,66,Male,30,99.34,373.04,Credit Card,Monthly,No,9,14,25.37,Yes,3,East,High,Married,Yes,14,34.36,No
+CUST1284,19,Female,15,92.14,84.58,Credit Card,Yearly,No,6,14,43.71,No,9,South,High,Single,Yes,54,17.18,Yes
+CUST1285,19,Female,27,120.74,409.89,PayPal,Yearly,No,6,1,24.68,No,8,West,Medium,Divorced,No,38,45.81,Yes
+CUST1286,45,Female,34,47.94,416.91,Debit Card,Monthly,No,0,7,35.11,Yes,1,East,Low,Divorced,Yes,12,52.51,Yes
+CUST1287,71,Male,33,52.75,256.2,PayPal,Yearly,Yes,8,10,49.64,Yes,7,South,Low,Married,Yes,16,82.72,No
+CUST1288,40,Male,24,175.12,8.16,PayPal,Yearly,Yes,1,3,6.57,No,9,West,Medium,Single,Yes,31,80.69,Yes
+CUST1289,54,Female,15,190.3,147.08,Debit Card,Yearly,Yes,4,7,13.74,Yes,8,North,Low,Divorced,Yes,8,13.06,No
+CUST1290,49,Female,30,87.2,310.38,Crypto,Yearly,Yes,4,14,19.73,Yes,8,North,High,Single,No,39,50.45,No
+CUST1291,50,Male,17,68.73,490.69,Credit Card,Monthly,Yes,7,6,21.09,No,6,West,High,Single,Yes,19,25.9,No
+CUST1292,18,Female,5,135.92,317.75,Crypto,Yearly,Yes,7,4,20.55,Yes,4,North,Medium,Single,Yes,25,23.03,No
+CUST1293,36,Female,29,93.57,133.6,Credit Card,Yearly,Yes,6,9,45.38,No,8,West,Low,Married,Yes,26,100.14,Yes
+CUST1294,79,Female,4,24.57,318.83,PayPal,Yearly,No,6,9,35.7,Yes,3,East,Low,Single,Yes,20,9.82,No
+CUST1295,19,Male,10,48.11,272.29,Credit Card,Monthly,No,5,11,30.4,Yes,9,West,High,Divorced,No,17,53.21,Yes
+CUST1296,70,Male,17,148.88,391.02,PayPal,Monthly,No,5,7,15.47,No,2,East,Medium,Single,Yes,12,24.34,No
+CUST1297,61,Male,10,138.61,57.96,Crypto,Monthly,No,8,13,41.19,No,2,South,Low,Divorced,No,15,106.12,Yes
+CUST1298,43,Female,17,24.88,381.71,PayPal,Monthly,Yes,5,8,47.75,Yes,7,West,Medium,Single,Yes,8,69.06,Yes
+CUST1299,49,Female,20,59.95,272.93,Crypto,Monthly,Yes,1,4,41.06,No,4,South,Low,Divorced,No,11,31.61,No
